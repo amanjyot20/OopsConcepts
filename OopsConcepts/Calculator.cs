@@ -10,6 +10,7 @@ public class Calculator
 
     public void Sum()
     {
+        int a = 1;
         Console.WriteLine("Sum of 2 numbers");
     }
 }
